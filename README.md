@@ -45,7 +45,7 @@
 <details>
 <summary>Поясняющий скриншот</summary>
 
-![](<ссылка>)
+![](https://user-images.githubusercontent.com/73652632/145027574-c445a8c0-b161-4829-aa95-3265e53d2cb1.png)
 
 </details>
 
@@ -54,7 +54,8 @@
 <details>
 <summary>Поясняющий скриншот</summary>
 
-![](<ссылка>)
+![](https://user-images.githubusercontent.com/73652632/145027715-1af96555-b2d3-4871-84ea-b19b69649913.png)
+
 
 </details>
 
