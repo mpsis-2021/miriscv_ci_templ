@@ -21,6 +21,7 @@ jobs:
           
       - name: Build
         run: |
+          bash /home/github_actions/scripts/clear_all.sh
           cp /home/github_actions/scripts/check_files.sh ./resources/
           ./resources/check_files.sh
           cp /home/github_actions/scripts/check_artifacts.sh ./resources/
